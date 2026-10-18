@@ -1,8 +1,6 @@
 <div align="center">
 
-# Fatma ElZahraa Ahmed Saad
-
-### Odoo Developer | ERP Customization | Backend Development
+<img src="./assets/profile-banner.svg" width="100%" alt="Fatma ElZahraa Ahmed Saad — Odoo and Backend Developer" />
 
 I build practical business solutions with **Python, Odoo, and PostgreSQL**, with experience across backend and full-stack development.
 
@@ -21,15 +19,11 @@ I build practical business solutions with **Python, Odoo, and PostgreSQL**, with
 
 ### Tech stack
 
-| Area | Technologies |
-| --- | --- |
-| ERP & business applications | Odoo 17/18/19, Python, PostgreSQL, QWeb, OWL |
-| Backend | C#, ASP.NET Core, SQL, REST APIs |
-| Frontend | JavaScript, HTML, CSS, Bootstrap, Three.js |
-| Developer tools | Git, GitHub, VS Code, Postman |
-| Currently learning | Node.js, backend architecture, algorithms in JavaScript |
+<img src="./assets/tech-stack.svg" width="100%" alt="Technology badges for ERP, backend, frontend, tools, and current learning" />
 
 ### Featured full-stack project
+
+> **FAMILYHUB** · Full-stack development · Private source
 
 **FamilyHub — Family coordination platform** · **Private project**
 
