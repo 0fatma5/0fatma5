@@ -31,6 +31,14 @@ A multi-component personal project combining an **ASP.NET Core API**, an **Angul
 
 This overview highlights the project's scope and technology stack. The repository and source code remain private.
 
+### Node.js showcase
+
+**[SlotWise — Appointment Booking](https://github.com/0fatma5/slotwise)**
+
+A Node.js booking API and responsive dashboard with server-side sessions, member/admin permissions, SQLite overlap protection, and **16 passing integration tests**.
+
+[Watch the 53-second API demo](https://github.com/0fatma5/slotwise/blob/main/demo/slotwise-api-demo.mp4) · [Explore the architecture](https://github.com/0fatma5/slotwise/blob/main/docs/ARCHITECTURE.md)
+
 ### Selected public projects
 
 | Project | Focus | Technologies |
